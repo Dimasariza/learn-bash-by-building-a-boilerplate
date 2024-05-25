@@ -322,3 +322,5 @@ ls
 clear
 echo goodbye terminal
 exit
+git pul;
+git pull

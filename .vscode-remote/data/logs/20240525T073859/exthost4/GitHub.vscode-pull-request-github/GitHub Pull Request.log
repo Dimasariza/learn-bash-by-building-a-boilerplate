@@ -49,3 +49,52 @@
 2024-05-25 08:14:31.531 [info] Using in-memory cached assignable users.
 2024-05-25 08:14:31.560 [info] Review+1> No matching pull request metadata found locally for current branch master
 2024-05-25 08:14:31.577 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-05-25 08:17:14.066 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-05-25 08:17:14.066 [info] Review+1> Validate state in progress
+2024-05-25 08:17:14.066 [info] Review+1> Validating state...
+2024-05-25 08:17:14.066 [info] Review+0> Validate state in progress
+2024-05-25 08:17:14.066 [info] Review+0> Validating state...
+2024-05-25 08:17:14.066 [info] Review+1> Queuing additional validate state
+2024-05-25 08:17:14.066 [info] Review+0> Queuing additional validate state
+2024-05-25 08:17:14.066 [info] No GitHub remotes found for folder /workspace
+2024-05-25 08:17:14.067 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-05-25 08:17:14.067 [info] No GitHub remotes found for folder /workspace
+2024-05-25 08:17:14.097 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-05-25 08:17:14.114 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-05-25 08:17:14.275 [info] Found GitHub remote for folder /workspace/project
+2024-05-25 08:17:14.586 [info] Trying to use globalState for assignableUsers.
+2024-05-25 08:17:14.898 [info] Found GitHub remote for folder /workspace/project
+2024-05-25 08:17:14.899 [info] Trying to use globalState for assignableUsers.
+2024-05-25 08:17:14.983 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-05-25 08:17:14.999 [info] GlobalState does not exist for assignableUsers.
+2024-05-25 08:17:15.117 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-05-25 08:17:15.137 [info] Review+1> Validating state...
+2024-05-25 08:17:15.137 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-05-25 08:17:15.137 [info] No GitHub remotes found for folder /workspace
+2024-05-25 08:17:15.183 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-05-25 08:17:15.221 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-05-25 08:17:15.289 [info] GlobalState does not exist for assignableUsers.
+2024-05-25 08:17:15.293 [info] Review+0> Queuing additional validate state
+2024-05-25 08:17:15.358 [info] Review+0> Queuing additional validate state
+2024-05-25 08:17:16.091 [info] Review+0> Validating state...
+2024-05-25 08:17:16.516 [info] Found GitHub remote for folder /workspace/project
+2024-05-25 08:17:16.850 [info] Trying to use globalState for assignableUsers.
+2024-05-25 08:17:17.001 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-05-25 08:17:17.036 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-05-25 08:17:17.421 [info] No globalState for assignableUsers.
+2024-05-25 08:17:17.848 [info] Review+0> Validating state...
+2024-05-25 08:17:18.035 [info] Found GitHub remote for folder /workspace/project
+2024-05-25 08:17:18.036 [info] Using in-memory cached assignable users.
+2024-05-25 08:17:18.202 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-05-25 08:17:18.235 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-05-25 08:17:19.051 [info] Review+0> Validating state...
+2024-05-25 08:17:19.316 [info] Found GitHub remote for folder /workspace/project
+2024-05-25 08:17:19.317 [info] Using in-memory cached assignable users.
+2024-05-25 08:17:19.466 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-05-25 08:17:19.492 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-05-25 08:18:01.190 [info] Review+1> Validate state in progress
+2024-05-25 08:18:01.190 [info] Review+1> Validating state...
+2024-05-25 08:18:01.193 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-05-25 08:18:01.193 [info] No GitHub remotes found for folder /workspace
+2024-05-25 08:18:01.216 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-05-25 08:18:01.231 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
