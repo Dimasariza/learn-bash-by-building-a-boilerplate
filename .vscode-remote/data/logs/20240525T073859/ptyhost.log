@@ -1,0 +1,8 @@
+2024-05-25 07:45:54.516 [info] Expanding terminal instance, old id -2c25f9da-1 -> new id undefined
+2024-05-25 07:45:59.744 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-05-25 07:45:59.744 [info] Persistent process reconnection "1"
+2024-05-25 07:45:59.946 [info] Persistent process "1": Replaying 1338 chars and 1 size events
+2024-05-25 07:51:35.700 [info] Expanding terminal instance, old id -2c25f9da-1 -> new id undefined
+2024-05-25 07:51:39.035 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-05-25 07:51:39.035 [info] Persistent process reconnection "1"
+2024-05-25 07:51:39.431 [info] Persistent process "1": Replaying 2406 chars and 1 size events

@@ -1,0 +1,415 @@
+2024-05-25 05:22:16.827 [info] Log level: Info
+2024-05-25 05:22:16.827 [info] Validating found git in: "git"
+2024-05-25 05:22:16.827 [info] Using git "2.43.0" from "git"
+2024-05-25 05:22:16.827 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-25 05:22:16.827 [info] > git rev-parse --git-dir --git-common-dir [23ms]
+2024-05-25 05:22:16.827 [info] Open repository: /workspace/project
+2024-05-25 05:22:16.827 [info] > git config --get commit.template [9ms]
+2024-05-25 05:22:16.827 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-25 05:22:16.827 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-05-25 05:22:16.827 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-25 05:22:16.827 [info] > git status -z -uall [10ms]
+2024-05-25 05:22:16.827 [info] > git rev-parse --show-toplevel [21ms]
+2024-05-25 05:22:16.827 [info] > git config --get commit.template [7ms]
+2024-05-25 05:22:16.827 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:22:16.827 [info] > git status -z -uall [13ms]
+2024-05-25 05:22:17.369 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-25 05:22:20.288 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:22:20.288 [warning] git config failed: Failed to execute git
+2024-05-25 05:22:20.300 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:22:20.300 [warning] git config failed: Failed to execute git
+2024-05-25 05:22:20.312 [info] > git config --local branch.main.merge [2ms]
+2024-05-25 05:22:20.312 [warning] git config failed: Failed to execute git
+2024-05-25 05:22:31.519 [info] > git config --get commit.template [12ms]
+2024-05-25 05:22:31.520 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-05-25 05:22:31.533 [info] > git status -z -uall [3ms]
+2024-05-25 05:22:36.560 [info] > git config --get commit.template [11ms]
+2024-05-25 05:22:36.561 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:22:36.575 [info] > git status -z -uall [4ms]
+2024-05-25 05:22:41.600 [info] > git config --get commit.template [11ms]
+2024-05-25 05:22:41.601 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:22:41.614 [info] > git status -z -uall [3ms]
+2024-05-25 05:22:46.645 [info] > git config --get commit.template [15ms]
+2024-05-25 05:22:46.646 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:22:46.662 [info] > git status -z -uall [4ms]
+2024-05-25 05:23:04.427 [info] > git config --get commit.template [10ms]
+2024-05-25 05:23:04.428 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:23:04.441 [info] > git status -z -uall [4ms]
+2024-05-25 05:23:09.468 [info] > git config --get commit.template [11ms]
+2024-05-25 05:23:09.469 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:23:09.481 [info] > git status -z -uall [3ms]
+2024-05-25 05:23:18.684 [info] > git config --get commit.template [13ms]
+2024-05-25 05:23:18.686 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:23:18.702 [info] > git status -z -uall [3ms]
+2024-05-25 05:24:07.485 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [2ms]
+2024-05-25 05:24:07.498 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [2ms]
+2024-05-25 05:24:07.511 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-05-25 05:24:07.511 [warning] git config failed: Failed to execute git
+2024-05-25 05:24:07.524 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [3ms]
+2024-05-25 05:24:07.536 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-05-25 05:24:07.548 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-05-25 05:24:07.560 [info] > git config --local branch.main.vscode-merge-base origin/main [2ms]
+2024-05-25 05:24:07.580 [info] > git config --get commit.template [10ms]
+2024-05-25 05:24:07.581 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:24:07.594 [info] > git status -z -uall [3ms]
+2024-05-25 05:24:07.608 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2024-05-25 05:24:07.609 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-25 05:24:08.123 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [15ms]
+2024-05-25 05:24:08.141 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [4ms]
+2024-05-25 05:24:08.156 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2024-05-25 05:24:08.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3ms]
+2024-05-25 05:24:08.182 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2024-05-25 05:24:08.183 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-25 05:24:08.655 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-25 05:24:09.179 [info] > git config --get commit.template [12ms]
+2024-05-25 05:24:09.181 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:24:09.195 [info] > git status -z -uall [3ms]
+2024-05-25 05:24:13.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [2ms]
+2024-05-25 05:24:13.890 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [2ms]
+2024-05-25 05:24:13.902 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-05-25 05:24:13.914 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-05-25 05:24:13.927 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2024-05-25 05:24:13.927 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-25 05:24:23.296 [info] > git config --get commit.template [12ms]
+2024-05-25 05:24:23.297 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:24:23.313 [info] > git status -z -uall [5ms]
+2024-05-25 05:24:28.336 [info] > git config --get commit.template [9ms]
+2024-05-25 05:24:28.337 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:24:28.349 [info] > git status -z -uall [3ms]
+2024-05-25 05:24:43.226 [info] > git config --get commit.template [11ms]
+2024-05-25 05:24:43.227 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:24:43.239 [info] > git status -z -uall [3ms]
+2024-05-25 05:24:48.833 [info] > git config --get commit.template [11ms]
+2024-05-25 05:24:48.834 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:24:48.846 [info] > git status -z -uall [3ms]
+2024-05-25 05:24:57.602 [info] > git config --get commit.template [11ms]
+2024-05-25 05:24:57.603 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:24:57.616 [info] > git status -z -uall [3ms]
+2024-05-25 05:25:02.694 [info] > git config --get commit.template [13ms]
+2024-05-25 05:25:02.695 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:25:02.708 [info] > git status -z -uall [4ms]
+2024-05-25 05:25:02.949 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-05-25 05:25:02.949 [warning] git config failed: Failed to execute git
+2024-05-25 05:25:02.960 [info] > git config --local branch.main.remote [2ms]
+2024-05-25 05:25:02.960 [warning] git config failed: Failed to execute git
+2024-05-25 05:25:02.971 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:25:02.971 [warning] git config failed: Failed to execute git
+2024-05-25 05:25:07.736 [info] > git config --get commit.template [11ms]
+2024-05-25 05:25:07.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:25:07.749 [info] > git status -z -uall [3ms]
+2024-05-25 05:26:48.207 [info] > git config --get commit.template [9ms]
+2024-05-25 05:26:48.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:26:48.221 [info] > git status -z -uall [3ms]
+2024-05-25 05:27:00.785 [info] > git config --get commit.template [10ms]
+2024-05-25 05:27:00.785 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:27:00.797 [info] > git status -z -uall [4ms]
+2024-05-25 05:27:05.820 [info] > git config --get commit.template [10ms]
+2024-05-25 05:27:05.821 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:27:05.834 [info] > git status -z -uall [2ms]
+2024-05-25 05:27:06.039 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-05-25 05:27:06.040 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:06.052 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:27:06.052 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:06.065 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:27:06.065 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:10.861 [info] > git config --get commit.template [10ms]
+2024-05-25 05:27:10.862 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:27:10.874 [info] > git status -z -uall [3ms]
+2024-05-25 05:27:11.912 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-05-25 05:27:11.912 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:11.923 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:27:11.923 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:11.934 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:27:11.934 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:15.898 [info] > git config --get commit.template [10ms]
+2024-05-25 05:27:15.899 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:27:15.911 [info] > git status -z -uall [3ms]
+2024-05-25 05:27:20.077 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:27:20.077 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:28.399 [info] > git config --get commit.template [11ms]
+2024-05-25 05:27:28.400 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:27:28.414 [info] > git status -z -uall [3ms]
+2024-05-25 05:27:28.629 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-05-25 05:27:28.630 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:28.640 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:27:28.640 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:28.650 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:27:28.650 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:33.440 [info] > git config --get commit.template [10ms]
+2024-05-25 05:27:33.441 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:27:33.454 [info] > git status -z -uall [3ms]
+2024-05-25 05:27:33.668 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:27:33.668 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:33.681 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:27:33.681 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:33.694 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:27:33.694 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:38.481 [info] > git config --get commit.template [11ms]
+2024-05-25 05:27:38.482 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:27:38.502 [info] > git status -z -uall [12ms]
+2024-05-25 05:27:43.526 [info] > git config --get commit.template [10ms]
+2024-05-25 05:27:43.527 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:27:43.540 [info] > git status -z -uall [3ms]
+2024-05-25 05:27:43.761 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:27:43.761 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:43.772 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:27:43.772 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:43.782 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:27:43.783 [warning] git config failed: Failed to execute git
+2024-05-25 05:27:48.565 [info] > git config --get commit.template [9ms]
+2024-05-25 05:27:48.566 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:27:48.578 [info] > git status -z -uall [3ms]
+2024-05-25 05:27:56.894 [info] > git config --get commit.template [10ms]
+2024-05-25 05:27:56.895 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:27:56.908 [info] > git status -z -uall [3ms]
+2024-05-25 05:28:07.587 [info] > git config --get commit.template [12ms]
+2024-05-25 05:28:07.588 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:28:07.603 [info] > git status -z -uall [3ms]
+2024-05-25 05:28:07.812 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-05-25 05:28:07.812 [warning] git config failed: Failed to execute git
+2024-05-25 05:28:07.823 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:28:07.823 [warning] git config failed: Failed to execute git
+2024-05-25 05:28:07.834 [info] > git config --local branch.main.merge [2ms]
+2024-05-25 05:28:07.834 [warning] git config failed: Failed to execute git
+2024-05-25 05:28:14.824 [info] > git config --get commit.template [9ms]
+2024-05-25 05:28:14.825 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:28:14.838 [info] > git status -z -uall [3ms]
+2024-05-25 05:28:15.048 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:28:15.048 [warning] git config failed: Failed to execute git
+2024-05-25 05:28:15.060 [info] > git config --local branch.main.remote [2ms]
+2024-05-25 05:28:15.060 [warning] git config failed: Failed to execute git
+2024-05-25 05:28:15.070 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:28:15.071 [warning] git config failed: Failed to execute git
+2024-05-25 05:28:21.499 [info] > git config --get commit.template [10ms]
+2024-05-25 05:28:21.500 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:28:21.513 [info] > git status -z -uall [4ms]
+2024-05-25 05:28:54.192 [info] > git config --get commit.template [10ms]
+2024-05-25 05:28:54.193 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:28:54.205 [info] > git status -z -uall [3ms]
+2024-05-25 05:29:04.573 [info] > git config --get commit.template [10ms]
+2024-05-25 05:29:04.574 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:29:04.586 [info] > git status -z -uall [3ms]
+2024-05-25 05:29:09.612 [info] > git config --get commit.template [10ms]
+2024-05-25 05:29:09.613 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:29:09.625 [info] > git status -z -uall [3ms]
+2024-05-25 05:29:14.649 [info] > git config --get commit.template [10ms]
+2024-05-25 05:29:14.649 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:29:14.662 [info] > git status -z -uall [3ms]
+2024-05-25 05:29:24.227 [info] > git config --get commit.template [10ms]
+2024-05-25 05:29:24.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:29:24.242 [info] > git status -z -uall [4ms]
+2024-05-25 05:29:43.190 [info] > git config --get commit.template [9ms]
+2024-05-25 05:29:43.190 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:29:43.203 [info] > git status -z -uall [3ms]
+2024-05-25 05:29:43.449 [info] > git config --local branch.main.github-pr-owner-number [11ms]
+2024-05-25 05:29:43.450 [warning] git config failed: Failed to execute git
+2024-05-25 05:29:43.472 [info] > git config --local branch.main.remote [12ms]
+2024-05-25 05:29:43.472 [warning] git config failed: Failed to execute git
+2024-05-25 05:29:43.487 [info] > git config --local branch.main.merge [2ms]
+2024-05-25 05:29:43.487 [warning] git config failed: Failed to execute git
+2024-05-25 05:29:48.229 [info] > git config --get commit.template [11ms]
+2024-05-25 05:29:48.230 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:29:48.242 [info] > git status -z -uall [2ms]
+2024-05-25 05:29:48.454 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:29:48.454 [warning] git config failed: Failed to execute git
+2024-05-25 05:29:48.466 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:29:48.466 [warning] git config failed: Failed to execute git
+2024-05-25 05:29:48.477 [info] > git config --local branch.main.merge [2ms]
+2024-05-25 05:29:48.477 [warning] git config failed: Failed to execute git
+2024-05-25 05:29:53.843 [info] > git config --get commit.template [13ms]
+2024-05-25 05:29:53.843 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:29:53.856 [info] > git status -z -uall [4ms]
+2024-05-25 05:29:58.878 [info] > git config --get commit.template [9ms]
+2024-05-25 05:29:58.879 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:29:58.893 [info] > git status -z -uall [4ms]
+2024-05-25 05:29:59.105 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:29:59.105 [warning] git config failed: Failed to execute git
+2024-05-25 05:29:59.115 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:29:59.115 [warning] git config failed: Failed to execute git
+2024-05-25 05:29:59.126 [info] > git config --local branch.main.merge [2ms]
+2024-05-25 05:29:59.126 [warning] git config failed: Failed to execute git
+2024-05-25 05:30:03.921 [info] > git config --get commit.template [12ms]
+2024-05-25 05:30:03.922 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:30:03.937 [info] > git status -z -uall [3ms]
+2024-05-25 05:30:08.966 [info] > git config --get commit.template [14ms]
+2024-05-25 05:30:08.967 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:30:08.981 [info] > git status -z -uall [3ms]
+2024-05-25 05:30:17.861 [info] > git config --get commit.template [12ms]
+2024-05-25 05:30:17.862 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:30:17.877 [info] > git status -z -uall [3ms]
+2024-05-25 05:30:18.087 [info] > git config --local branch.main.github-pr-owner-number [3ms]
+2024-05-25 05:30:18.087 [warning] git config failed: Failed to execute git
+2024-05-25 05:30:18.099 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:30:18.099 [warning] git config failed: Failed to execute git
+2024-05-25 05:30:18.113 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:30:18.113 [warning] git config failed: Failed to execute git
+2024-05-25 05:30:22.908 [info] > git config --get commit.template [13ms]
+2024-05-25 05:30:22.909 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:30:22.924 [info] > git status -z -uall [3ms]
+2024-05-25 05:30:27.950 [info] > git config --get commit.template [10ms]
+2024-05-25 05:30:27.951 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:30:27.963 [info] > git status -z -uall [3ms]
+2024-05-25 05:31:05.708 [info] > git config --get commit.template [9ms]
+2024-05-25 05:31:05.709 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:31:05.721 [info] > git status -z -uall [3ms]
+2024-05-25 05:31:20.910 [info] > git config --get commit.template [10ms]
+2024-05-25 05:31:20.911 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:31:20.923 [info] > git status -z -uall [3ms]
+2024-05-25 05:31:21.137 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:31:21.137 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:21.150 [info] > git config --local branch.main.remote [2ms]
+2024-05-25 05:31:21.150 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:21.163 [info] > git config --local branch.main.merge [2ms]
+2024-05-25 05:31:21.163 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:25.948 [info] > git config --get commit.template [10ms]
+2024-05-25 05:31:25.949 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:31:25.961 [info] > git status -z -uall [3ms]
+2024-05-25 05:31:30.986 [info] > git config --get commit.template [11ms]
+2024-05-25 05:31:30.987 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:31:30.999 [info] > git status -z -uall [3ms]
+2024-05-25 05:31:31.223 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:31:31.223 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:31.236 [info] > git config --local branch.main.remote [2ms]
+2024-05-25 05:31:31.236 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:31.249 [info] > git config --local branch.main.merge [2ms]
+2024-05-25 05:31:31.249 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:36.027 [info] > git config --get commit.template [11ms]
+2024-05-25 05:31:36.029 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:31:36.042 [info] > git status -z -uall [3ms]
+2024-05-25 05:31:41.739 [info] > git config --get commit.template [10ms]
+2024-05-25 05:31:41.740 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:31:41.754 [info] > git status -z -uall [3ms]
+2024-05-25 05:31:42.007 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-05-25 05:31:42.007 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:42.020 [info] > git config --local branch.main.remote [2ms]
+2024-05-25 05:31:42.020 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:42.033 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:31:42.033 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:46.779 [info] > git config --get commit.template [10ms]
+2024-05-25 05:31:46.780 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:31:46.792 [info] > git status -z -uall [3ms]
+2024-05-25 05:31:51.815 [info] > git config --get commit.template [10ms]
+2024-05-25 05:31:51.816 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:31:51.828 [info] > git status -z -uall [3ms]
+2024-05-25 05:31:52.042 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:31:52.042 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:52.055 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:31:52.055 [warning] git config failed: Failed to execute git
+2024-05-25 05:31:52.068 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:31:52.068 [warning] git config failed: Failed to execute git
+2024-05-25 05:32:20.090 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:32:20.090 [warning] git config failed: Failed to execute git
+2024-05-25 05:32:21.962 [info] > git config --get commit.template [12ms]
+2024-05-25 05:32:21.963 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:32:21.976 [info] > git status -z -uall [3ms]
+2024-05-25 05:32:35.802 [info] > git config --get commit.template [10ms]
+2024-05-25 05:32:35.804 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:32:35.816 [info] > git status -z -uall [3ms]
+2024-05-25 05:32:49.889 [info] > git config --get commit.template [11ms]
+2024-05-25 05:32:49.890 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:32:49.902 [info] > git status -z -uall [3ms]
+2024-05-25 05:33:13.570 [info] > git config --get commit.template [10ms]
+2024-05-25 05:33:13.571 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:33:13.584 [info] > git status -z -uall [3ms]
+2024-05-25 05:33:13.790 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:33:13.790 [warning] git config failed: Failed to execute git
+2024-05-25 05:33:13.804 [info] > git config --local branch.main.remote [2ms]
+2024-05-25 05:33:13.804 [warning] git config failed: Failed to execute git
+2024-05-25 05:33:13.817 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:33:13.817 [warning] git config failed: Failed to execute git
+2024-05-25 05:33:18.612 [info] > git config --get commit.template [12ms]
+2024-05-25 05:33:18.613 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:33:18.627 [info] > git status -z -uall [3ms]
+2024-05-25 05:33:23.661 [info] > git config --get commit.template [14ms]
+2024-05-25 05:33:23.661 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:33:23.679 [info] > git status -z -uall [3ms]
+2024-05-25 05:33:23.902 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:33:23.902 [warning] git config failed: Failed to execute git
+2024-05-25 05:33:23.917 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:33:23.917 [warning] git config failed: Failed to execute git
+2024-05-25 05:33:23.931 [info] > git config --local branch.main.merge [2ms]
+2024-05-25 05:33:23.931 [warning] git config failed: Failed to execute git
+2024-05-25 05:33:28.707 [info] > git config --get commit.template [9ms]
+2024-05-25 05:33:28.708 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:33:28.719 [info] > git status -z -uall [3ms]
+2024-05-25 05:33:33.747 [info] > git config --get commit.template [12ms]
+2024-05-25 05:33:33.748 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:33:33.762 [info] > git status -z -uall [3ms]
+2024-05-25 05:33:38.787 [info] > git config --get commit.template [10ms]
+2024-05-25 05:33:38.788 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:33:38.800 [info] > git status -z -uall [3ms]
+2024-05-25 05:33:55.816 [info] > git config --get commit.template [10ms]
+2024-05-25 05:33:55.817 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:33:55.829 [info] > git status -z -uall [3ms]
+2024-05-25 05:34:02.697 [info] > git config --get commit.template [10ms]
+2024-05-25 05:34:02.698 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:34:02.710 [info] > git status -z -uall [3ms]
+2024-05-25 05:34:17.505 [info] > git config --get commit.template [9ms]
+2024-05-25 05:34:17.506 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:34:17.518 [info] > git status -z -uall [3ms]
+2024-05-25 05:34:22.541 [info] > git config --get commit.template [11ms]
+2024-05-25 05:34:22.542 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:34:22.554 [info] > git status -z -uall [3ms]
+2024-05-25 05:34:51.819 [info] > git config --get commit.template [11ms]
+2024-05-25 05:34:51.820 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:34:51.833 [info] > git status -z -uall [3ms]
+2024-05-25 05:34:52.289 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:34:52.289 [warning] git config failed: Failed to execute git
+2024-05-25 05:34:52.307 [info] > git config --local branch.main.remote [9ms]
+2024-05-25 05:34:52.307 [warning] git config failed: Failed to execute git
+2024-05-25 05:34:52.326 [info] > git config --local branch.main.merge [10ms]
+2024-05-25 05:34:52.326 [warning] git config failed: Failed to execute git
+2024-05-25 05:34:56.861 [info] > git config --get commit.template [12ms]
+2024-05-25 05:34:56.862 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:34:56.876 [info] > git status -z -uall [3ms]
+2024-05-25 05:34:57.089 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:34:57.089 [warning] git config failed: Failed to execute git
+2024-05-25 05:34:57.099 [info] > git config --local branch.main.remote [1ms]
+2024-05-25 05:34:57.100 [warning] git config failed: Failed to execute git
+2024-05-25 05:34:57.109 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:34:57.109 [warning] git config failed: Failed to execute git
+2024-05-25 05:35:13.202 [info] > git config --get commit.template [10ms]
+2024-05-25 05:35:13.203 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:35:13.215 [info] > git status -z -uall [3ms]
+2024-05-25 05:35:29.421 [info] > git config --get commit.template [13ms]
+2024-05-25 05:35:29.422 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:35:29.436 [info] > git status -z -uall [3ms]
+2024-05-25 05:35:35.141 [info] > git config --get commit.template [10ms]
+2024-05-25 05:35:35.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:35:35.154 [info] > git status -z -uall [3ms]
+2024-05-25 05:35:49.015 [info] > git config --get commit.template [11ms]
+2024-05-25 05:35:49.016 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:35:49.035 [info] > git status -z -uall [10ms]
+2024-05-25 05:35:54.062 [info] > git config --get commit.template [11ms]
+2024-05-25 05:35:54.063 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:35:54.076 [info] > git status -z -uall [4ms]
+2024-05-25 05:35:54.285 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-05-25 05:35:54.285 [warning] git config failed: Failed to execute git
+2024-05-25 05:35:54.297 [info] > git config --local branch.main.remote [2ms]
+2024-05-25 05:35:54.297 [warning] git config failed: Failed to execute git
+2024-05-25 05:35:54.308 [info] > git config --local branch.main.merge [2ms]
+2024-05-25 05:35:54.308 [warning] git config failed: Failed to execute git
+2024-05-25 05:35:59.102 [info] > git config --get commit.template [9ms]
+2024-05-25 05:35:59.102 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-25 05:35:59.114 [info] > git status -z -uall [3ms]
+2024-05-25 05:35:59.327 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-05-25 05:35:59.327 [warning] git config failed: Failed to execute git
+2024-05-25 05:35:59.339 [info] > git config --local branch.main.remote [2ms]
+2024-05-25 05:35:59.339 [warning] git config failed: Failed to execute git
+2024-05-25 05:35:59.350 [info] > git config --local branch.main.merge [1ms]
+2024-05-25 05:35:59.350 [warning] git config failed: Failed to execute git
+2024-05-25 05:36:04.141 [info] > git config --get commit.template [11ms]
+2024-05-25 05:36:04.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-25 05:36:04.155 [info] > git status -z -uall [3ms]
+2024-05-25 05:37:20.105 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:37:20.105 [warning] git config failed: Failed to execute git
+2024-05-25 05:42:20.121 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:42:20.121 [warning] git config failed: Failed to execute git
+2024-05-25 05:47:20.136 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:47:20.136 [warning] git config failed: Failed to execute git
+2024-05-25 05:52:20.151 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:52:20.151 [warning] git config failed: Failed to execute git
+2024-05-25 05:57:20.168 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 05:57:20.168 [warning] git config failed: Failed to execute git
+2024-05-25 06:02:20.182 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-05-25 06:02:20.182 [warning] git config failed: Failed to execute git

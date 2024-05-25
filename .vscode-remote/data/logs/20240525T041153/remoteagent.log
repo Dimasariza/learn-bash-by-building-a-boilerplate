@@ -1,0 +1,50 @@
+2024-05-25 04:11:53.863 [info] 
+
+
+
+
+2024-05-25 04:11:53.863 [info] Extension host agent started.
+2024-05-25 04:11:53.874 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2024-05-25 04:11:53.984 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2024-05-25 04:11:54.007 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2024-05-25 04:11:55.137 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2024-05-25 04:11:55.177 [info] Getting Manifest... github.vscode-pull-request-github
+2024-05-25 04:11:56.061 [info] Installing extension: github.vscode-pull-request-github
+2024-05-25 04:11:59.166 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /ide/out/server-main.js
+2024-05-25 04:11:59.166 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2024-05-25 04:11:59.244 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.88.1-universal: github.vscode-pull-request-github
+2024-05-25 04:11:59.248 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.88.1-universal
+2024-05-25 04:11:59.252 [info] Extracting extension completed. github.vscode-pull-request-github
+2024-05-25 04:11:59.258 [info] Extension installed successfully: github.vscode-pull-request-github
+2024-05-25 04:11:59.259 [info] Extension 'github.vscode-pull-request-github' v0.88.1 was successfully installed.
+2024-05-25 04:11:59.262 [info] Installing extensions...
+2024-05-25 04:12:00.033 [info] Installing extension 'coderoad.coderoad'...
+2024-05-25 04:12:00.033 [info] Getting Manifest... coderoad.coderoad
+2024-05-25 04:12:00.656 [info] Installing extension: coderoad.coderoad
+2024-05-25 04:12:03.405 [info] [192.168.190.10][9d8e7b46][ManagementConnection] New connection established.
+2024-05-25 04:12:03.532 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /ide/out/server-main.js
+2024-05-25 04:12:03.532 [info] Extension signature verification is not done: coderoad.coderoad
+2024-05-25 04:12:03.583 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal: coderoad.coderoad
+2024-05-25 04:12:03.585 [info] Renamed to /workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal
+2024-05-25 04:12:03.587 [info] Extracting extension completed. coderoad.coderoad
+2024-05-25 04:12:03.592 [info] Extension installed successfully: coderoad.coderoad
+2024-05-25 04:12:03.593 [info] Extension 'coderoad.coderoad' v0.19.4 was successfully installed.
+2024-05-25 04:12:11.442 [info] [192.168.77.202][1bb1d574][ExtensionHostConnection] New connection established.
+2024-05-25 04:12:11.456 [info] [192.168.77.202][1bb1d574][ExtensionHostConnection] <156> Launched Extension Host Process.
+2024-05-25 04:30:02.922 [info] [192.168.77.202][1bb1d574][ExtensionHostConnection] The client has reconnected.
+2024-05-25 04:30:03.504 [info] [192.168.77.202][9d8e7b46][ManagementConnection] The client has reconnected.
+2024-05-25 05:11:24.484 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-05-25 05:11:24.485 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-05-25 05:22:06.484 [info] [192.168.77.202][9d8e7b46][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-25 05:22:06.561 [info] [192.168.77.202][1bb1d574][ExtensionHostConnection] <156> Extension Host Process exited with code: 0, signal: null.
+2024-05-25 05:22:12.981 [info] [192.168.190.10][abf59190][ManagementConnection] New connection established.
+2024-05-25 05:22:13.477 [info] [192.168.89.75][f3db5a29][ExtensionHostConnection] New connection established.
+2024-05-25 05:22:13.517 [info] [192.168.89.75][f3db5a29][ExtensionHostConnection] <13592> Launched Extension Host Process.
+2024-05-25 05:24:21.654 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-05-25 05:24:21.654 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-05-25 05:56:12.666 [info] [192.168.77.202][f3db5a29][ExtensionHostConnection] The client has reconnected.
+2024-05-25 05:56:12.997 [info] [192.168.89.75][abf59190][ManagementConnection] The client has reconnected.

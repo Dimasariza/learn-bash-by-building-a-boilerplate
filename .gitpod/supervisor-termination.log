@@ -1,0 +1,17 @@
+[831ns] Shutting down all processes 
+[229.38µs] Terminating process supervisor with PID 35 (state: S, cmdlind: [supervisor run] <nil>). 
+[19.484538ms] Terminating main process errored: waitid: no child processes 
+[19.860618ms] Terminating process node with PID 13656 (state: S, cmdlind: [/ide/node /ide/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=13592] <nil>). 
+[19.879738ms] Terminating process node with PID 70 (state: R, cmdlind: [/ide/node /ide/out/server-main.js --log=info --install-builtin-extension gitpod.gitpod-theme --install-builtin-extension github.vscode-pull-request-github --install-extension coderoad.coderoad --port 23000 --host 0.0.0.0 --without-connection-token --server-data-dir /workspace/.vscode-remote --do-not-sync --start-server] <nil>). 
+[19.909469ms] Terminating main process errored: waitid: no child processes 
+[19.869178ms] Terminating process bash with PID 12806 (state: S, cmdlind: [/usr/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh] <nil>). 
+[19.926638ms] Terminating main process errored: waitid: no child processes 
+[19.938038ms] Terminating process node with PID 177 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=ptyHost --logsPath /workspace/.vscode-remote/data/logs/20240525T041153] <nil>). 
+[19.976818ms] Terminating main process errored: waitid: no child processes 
+[20.065649ms] Terminating process node with PID 13606 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[20.095818ms] Terminating main process errored: waitid: no child processes 
+[20.145358ms] Terminating process node with PID 13592 (state: R, cmdlind: [/ide/node --dns-result-order=ipv4first /ide/out/bootstrap-fork --type=extensionHost --transformURIs --useHostProxy=false] <nil>). 
+[20.205058ms] Terminating main process errored: waitid: no child processes 
+[40.107936ms] Terminating main process errored: waitid: no child processes 
+[40.435106ms] Couldn't obtain process information for PID 13592. 
+[41.903086ms] Finished shutting down all processes. 

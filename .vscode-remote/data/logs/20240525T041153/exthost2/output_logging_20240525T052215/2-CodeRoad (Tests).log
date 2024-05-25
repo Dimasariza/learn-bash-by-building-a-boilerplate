@@ -1,0 +1,264 @@
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website$/.test(cwd) && /\/project\/website\/client\/assets\/images$/.test(previousCwd))
+
+at Context.<anonymous> (test/1040.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website\/images$/.test(cwd))
+
+at Context.<anonymous> (test/1050.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cd' && /\/project\/website\/images$/.test(cwd))
+
+at Context.<anonymous> (test/1050.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'images' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1090.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /header\.png$/.test(lastCommand[1]) && /client\/assets\/images/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1100.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /header\.png$/.test(lastCommand[1]) && /client\/assets\/images/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1100.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /header\.png$/.test(lastCommand[1]) && /client\/assets\/images/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1100.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /header\.png$/.test(lastCommand[1]) && /client\/assets\/images/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1100.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /header\.png$/.test(lastCommand[1]) && /client\/assets\/images/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1100.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /header\.png$/.test(lastCommand[1]) && /client\/assets\/images/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1100.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && lastCommand[1] === '-name' && lastCommand[2] === 'footer.jpeg' && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1120.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /images\/footer\.jpeg$/.test(lastCommand[1]) && /client\/assets\/images/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1130.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'find' && correctArgs && /\/project\/website$/.test(cwd))
+
+at Context.<anonymous> (test/1135.test.js:10:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(imagesDirectory.indexOf('background.jpg') < 0 && lastCommand[0] === 'rm' && /background\.jpg/.test(lastCommand[1]))
+
+at Context.<anonymous> (test/1170.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(imagesDirectory.indexOf('background.jpg') < 0 && lastCommand[0] === 'rm' && /background\.jpg/.test(lastCommand[1]))
+
+at Context.<anonymous> (test/1170.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(imagesDirectory.indexOf('background.jpg') < 0 && lastCommand[0] === 'rm' && /background\.jpg/.test(lastCommand[1]))
+
+at Context.<anonymous> (test/1170.test.js:9:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(checkMkdir || checkMV)
+
+at Context.<anonymous> (test/1200.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(checkMkdir || checkMV)
+
+at Context.<anonymous> (test/1200.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(checkMkdir || checkMV)
+
+at Context.<anonymous> (test/1200.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(checkMkdir || checkMV)
+
+at Context.<anonymous> (test/1200.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(checkMkdir || checkMV)
+
+at Context.<anonymous> (test/1200.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeAlly\.svg$/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1210.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeAlly\.svg$/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1210.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeAlly\.svg$/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1210.test.js:11:5)

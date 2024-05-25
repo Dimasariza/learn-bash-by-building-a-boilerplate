@@ -1,0 +1,28 @@
+2024-05-25 07:38:59.978 [info] 
+
+
+
+
+2024-05-25 07:38:59.994 [info] Extension host agent started.
+2024-05-25 07:39:00.150 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2024-05-25 07:39:00.150 [info] Extension 'github.vscode-pull-request-github' v0.88.1 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'github.vscode-pull-request-github@1.2.3'.
+2024-05-25 07:39:09.644 [info] [192.168.89.75][f47746fb][ManagementConnection] New connection established.
+2024-05-25 07:39:10.100 [info] [192.168.190.10][a2ace63a][ExtensionHostConnection] New connection established.
+2024-05-25 07:39:10.162 [info] [192.168.190.10][a2ace63a][ExtensionHostConnection] <124> Launched Extension Host Process.
+2024-05-25 07:45:49.160 [info] [192.168.89.75][f47746fb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-25 07:45:49.220 [info] [192.168.190.10][a2ace63a][ExtensionHostConnection] <124> Extension Host Process exited with code: 0, signal: null.
+2024-05-25 07:45:54.015 [info] [192.168.77.202][99b9a3f3][ManagementConnection] New connection established.
+2024-05-25 07:45:54.650 [info] [192.168.190.10][b71eaeec][ExtensionHostConnection] New connection established.
+2024-05-25 07:45:54.663 [info] [192.168.190.10][b71eaeec][ExtensionHostConnection] <1579> Launched Extension Host Process.
+2024-05-25 07:51:29.164 [info] [192.168.77.202][99b9a3f3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-25 07:51:29.216 [info] [192.168.190.10][b71eaeec][ExtensionHostConnection] <1579> Extension Host Process exited with code: 0, signal: null.
+2024-05-25 07:51:35.149 [info] [192.168.190.10][380cd340][ManagementConnection] New connection established.
+2024-05-25 07:51:35.726 [info] [192.168.89.75][b1e2dadc][ExtensionHostConnection] New connection established.
+2024-05-25 07:51:35.741 [info] [192.168.89.75][b1e2dadc][ExtensionHostConnection] <2537> Launched Extension Host Process.
+2024-05-25 07:53:51.379 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-05-25 07:53:51.380 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-05-25 08:10:58.842 [info] [192.168.190.10][380cd340][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-25 08:10:58.903 [info] [192.168.89.75][b1e2dadc][ExtensionHostConnection] <2537> Extension Host Process exited with code: 0, signal: null.
+2024-05-25 08:11:09.102 [info] [192.168.190.10][2f94a3c3][ManagementConnection] New connection established.
+2024-05-25 08:11:09.637 [info] [192.168.190.10][b07dc033][ExtensionHostConnection] New connection established.
+2024-05-25 08:11:09.648 [info] [192.168.190.10][b07dc033][ExtensionHostConnection] <8541> Launched Extension Host Process.

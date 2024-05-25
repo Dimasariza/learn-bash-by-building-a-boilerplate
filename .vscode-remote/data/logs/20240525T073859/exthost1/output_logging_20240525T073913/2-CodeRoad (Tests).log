@@ -1,0 +1,104 @@
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /CodeRoad\.svg/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1220.test.js:11:5)
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(filesAreCorrect && lastCommand[0] === 'mv' && /freeCodeCamp\.svg$/.test(lastCommand[1]) && /client\/assets\/icons/.test(lastCommand[2]))
+
+at Context.<anonymous> (test/1230.test.js:11:5)
