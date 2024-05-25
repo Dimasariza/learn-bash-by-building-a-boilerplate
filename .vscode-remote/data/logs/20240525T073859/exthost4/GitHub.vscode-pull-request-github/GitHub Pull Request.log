@@ -42,3 +42,10 @@
 2024-05-25 08:12:42.641 [info] Using in-memory cached assignable users.
 2024-05-25 08:12:42.667 [info] Review+0> No matching pull request metadata found locally for current branch main
 2024-05-25 08:12:42.693 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-05-25 08:14:31.529 [info] Review+1> Validate state in progress
+2024-05-25 08:14:31.529 [info] Review+1> Validating state...
+2024-05-25 08:14:31.531 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-05-25 08:14:31.531 [info] No GitHub remotes found for folder /workspace
+2024-05-25 08:14:31.531 [info] Using in-memory cached assignable users.
+2024-05-25 08:14:31.560 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-05-25 08:14:31.577 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
